@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Birthday Card</string>
+    <string name="image_description">happy birthday</string>
+    <string name="text_view_string">From, Bita</string>
+</resources>
